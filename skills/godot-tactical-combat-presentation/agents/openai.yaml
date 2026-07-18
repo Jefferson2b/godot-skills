@@ -1,0 +1,7 @@
+interface:
+  display_name: "Godot Tactical Combat Presentation"
+  short_description: "Build deterministic event-driven tactical combat presentation"
+  default_prompt: "Use $godot-tactical-combat-presentation to design or implement a deterministic tactical combat animation sequence."
+
+policy:
+  allow_implicit_invocation: true

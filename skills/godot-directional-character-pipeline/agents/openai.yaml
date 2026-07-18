@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot Directional Character Pipeline"
+  short_description: "Build and verify directional character asset matrices"
+  default_prompt: "Use $godot-directional-character-pipeline to audit and complete a Godot character directional asset and action matrix."

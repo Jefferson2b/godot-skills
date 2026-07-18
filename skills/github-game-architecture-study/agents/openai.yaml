@@ -1,0 +1,7 @@
+interface:
+  display_name: "GitHub Game Architecture Study"
+  short_description: "Study reusable architecture in open-source game repositories"
+  default_prompt: "Use $github-game-architecture-study to evaluate this GitHub game repository and extract transferable architecture."
+
+policy:
+  allow_implicit_invocation: true

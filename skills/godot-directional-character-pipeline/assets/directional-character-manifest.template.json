@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "required_facings": ["north", "east", "south", "west"],
+  "required_actions": ["idle", "move", "attack", "skill", "hit", "down"],
+  "characters": [
+    {
+      "id": "replace_with_stable_character_id",
+      "definition": "res://data/presentation/replace_with_character.tres",
+      "min_parts_per_facing": 12,
+      "expected_parts_by_facing": {
+        "east": [
+          "replace_with_approved_part_id"
+        ]
+      }
+    }
+  ]
+}

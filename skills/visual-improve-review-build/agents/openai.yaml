@@ -1,0 +1,4 @@
+interface:
+  display_name: "美术优化·审阅·实施"
+  short_description: "先讨论并审阅理想稿，再正式实施美术、UI 与整体视觉优化"
+  default_prompt: "Use $visual-improve-review-build to discuss this visual improvement, produce one ideal mockup for my approval, and implement it only after approval."

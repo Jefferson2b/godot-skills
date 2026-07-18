@@ -1,0 +1,4 @@
+interface:
+  display_name: "Godot Production Lead"
+  short_description: "主导 Godot 项目从目标、里程碑推进到玩家可见的成品验收"
+  default_prompt: "Use $godot-production-lead to take ownership of this Godot project milestone and drive it to production-complete acceptance."
